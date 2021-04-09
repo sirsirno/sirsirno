@@ -22,5 +22,4 @@
 ![EnemyId_321022](https://user-images.githubusercontent.com/64309464/114110785-48382700-9913-11eb-9e78-78e31255d4ca.png)
 ![EnemyId_313103_origin_shields](https://user-images.githubusercontent.com/64309464/114110787-48d0bd80-9913-11eb-9cb9-bc6ce63cc793.png)
 ![EnemyId_341012_origin](https://user-images.githubusercontent.com/64309464/114110792-4a9a8100-9913-11eb-9524-2a4bad35ff02.png)
-![asdadadadadad](https://user-images.githubusercontent.com/64309464/114110799-4cfcdb00-9913-11eb-832a-54c5edff1bb5.png)
 
